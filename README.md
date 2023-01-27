@@ -9,5 +9,10 @@ Tech201-git-github
 - Used git clone + link to clone repo
 - We then made folder using mkdir
 - We make changes to README file via nano README.md command
-- testing
+- We then save those commands and apply those changes
+- We use `git add` to make the changes
+- Then we use `git commit -m "message"`
+- Then we use `git push -u origin main` to push the changes to our repo
+
+![](gitpushpull.png)
 
